@@ -1,4 +1,4 @@
-#adding librarires 
+#adding libraries 
 import random
 import time
 import os
@@ -52,11 +52,3 @@ if restart == 'y':
 else :
     print('\nThe game is being closed...')
     sys.exit(0)
-    
-
-
-
-
-
-
-
